@@ -1,3 +1,7 @@
+# Cardputer-ADV-Samsung-Remote (v0.8)
+Cardputer ADV Samsung Remote v.8
+Updated some of code to see if can fix it not burning with m5burner website.  The .bin works fine if you install it on sd card, then install it with launcher.  Not sure why get a black screen using m5burner website.
+
 # Cardputer-ADV-Samsung-Remote (v0.6)
 Cardputer ADV Samsung Remote v.6
 # Cardputer ADV Samsung IR Remote (v0.6)
